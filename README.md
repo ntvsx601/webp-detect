@@ -20,7 +20,7 @@ $> varnishd -a :8081 -T localhost:6082 -F -f varnish.vcl
 
 With the above in place, access the page and look at the request header appended by the server - you will see a new `WebP` header sent to your application server if the browser supports WebP.
 
-### What about server X?
+### What about server X????
 
 * See list of included server configurations above.
 * Connect middleware (node.js): https://github.com/msemenistyi/connect-image-optimus
