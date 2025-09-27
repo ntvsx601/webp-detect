@@ -9,7 +9,7 @@ A collection of configuration scripts for serving WebP assets:
 
 Above sequence of steps allows [transparent Accept negotiation of WebP assets](http://www.igvita.com/2013/05/01/deploying-webp-via-accept-content-negotiation/) - no need to modify your existing applications. Either pregenerate the WebP files, or serve WebP files dynamically to approriate clients.
 
-## Getting started
+## Getting started_
 
 Download or copy the configuration file and run your server. For example:
 
